@@ -1,0 +1,6 @@
+quantity,result
+baseline crosswind var at x=48,CA 21.179; pred. 21.120
+"off-center exposure frac, L=1 -> L=32",0.034% -> 28.024%
+"off-center complete episode duration, L=1 -> L=32",1.29 -> 33.39 steps
+off-center complete episodes at L=1,17
+mass balance,max abs packet err = 0

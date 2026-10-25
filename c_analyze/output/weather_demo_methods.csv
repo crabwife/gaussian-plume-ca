@@ -1,0 +1,7 @@
+condition,model,mean_drift_cells_per_step,interpretation
+rapid changes,Original CA,1 eastward; +/-0.30 sideways,L=1: wind sign changes frequently
+persistent direction,Original CA,1 eastward; +/-0.30 sideways,L=32: wind sign tends to persist
+gentle steady wind,Supplemental CA,0.15 eastward; 0 sideways,Weak constant eastward drift
+calm,Supplemental CA,0 in both directions,Random diffusion continues; pollutant accumulates near source
+comparison scope,One realization per panel,All emit 80 packets/step,Same crosswind diffusivity; gentle/calm also diffuse longitudinally
+initial conditions,All initially clean,"Common time, space, and color scale",Original exposure statistics apply only to original experiments

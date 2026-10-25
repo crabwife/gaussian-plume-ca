@@ -1,0 +1,3 @@
+condition,steps,mean_eastward_drift,emitted,remaining,exited,max_mass_balance_error
+gentle,1433,0.15,114640,76821,37819,0
+calm,1433,0.0,114640,114579,61,0
