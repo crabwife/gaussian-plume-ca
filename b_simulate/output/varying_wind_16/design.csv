@@ -1,0 +1,3 @@
+condition,label,mean_block,population_block_variance,population_block_sd,variable
+fixed_16,Fixed L=16,16,0.0,0.0,False
+variable_16,Variable L (mean 16),16,52.0,7.211102550927978,True

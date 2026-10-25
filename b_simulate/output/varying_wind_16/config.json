@@ -1,0 +1,40 @@
+{
+  "seed": 63,
+  "nx": 121,
+  "ny": 257,
+  "source_y": 129,
+  "packets_per_step": 80,
+  "diffusivity": 0.22,
+  "wind_bias": 0.3,
+  "wind_blocks": [
+    1,
+    8,
+    32
+  ],
+  "n_trials": 64,
+  "n_steps": 1024,
+  "burn_in": 121,
+  "baseline_steps": 256,
+  "receptor_x": 48,
+  "receptor_offsets": [
+    -12,
+    0,
+    12
+  ],
+  "receptor_halfwidth": 2,
+  "exposure_threshold": 4.0,
+  "profile_distances": [
+    12,
+    30,
+    48
+  ],
+  "frame_interval": 8,
+  "demo_frames": 180,
+  "bootstrap_draws": 63000,
+  "weather_demo": {
+    "gentle_drift": 0.15,
+    "x_min": -80,
+    "x_max": 143,
+    "y_halfwidth": 80
+  }
+}

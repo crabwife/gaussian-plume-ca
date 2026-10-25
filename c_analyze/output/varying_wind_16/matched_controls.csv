@@ -1,0 +1,6 @@
+control,reference_or_min,observed_or_max
+positive wind fraction in every trial,0.5,0.5
+"mean block, fixed 16 vs variable",16.0,16.0
+maximum paired direction-change difference,0.0,0.0
+maximum packet balance error,0.0,0.0
+actual snapshot count,144.0,144.0

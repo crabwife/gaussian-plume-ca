@@ -1,0 +1,12 @@
+{
+  "fixed_blocks": [
+    16
+  ],
+  "variable_mean": 16,
+  "variable_min": 4,
+  "variable_max": 28,
+  "bootstrap_draws": 2000,
+  "wind_max_lag": 96,
+  "gif_fps": 10,
+  "display_halfwidth": 48
+}

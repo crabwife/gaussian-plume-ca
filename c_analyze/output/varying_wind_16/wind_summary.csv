@@ -1,0 +1,3 @@
+condition,mean_block,sd_block,positive_fraction,mean_wind_run,mean_within_trial_run_sd
+fixed_16,16.0,0.0,0.5,31.955474728230147,21.7462528051349
+variable_16,16.0,7.262650600848151,0.5,31.955474728230147,23.73401208202819
